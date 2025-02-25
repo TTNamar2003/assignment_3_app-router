@@ -1,0 +1,22 @@
+.header {
+    background-color: #1f2937;
+    color: var(--primary-text);
+    padding: 15px;
+  }
+  
+  .nav {
+    display: flex;
+    gap: 15px;
+    color: white;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .link:hover {
+    color: blueviolet;
+  }
+  
